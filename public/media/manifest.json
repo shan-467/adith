@@ -1,0 +1,14 @@
+{
+  "clips": {
+    "hero": {
+      "name": "hero",
+      "frames": 599,
+      "w": 572,
+      "h": 850,
+      "mp4": "hero.mp4",
+      "poster": "hero.jpg",
+      "packed": false,
+      "fps": 59.98
+    }
+  }
+}
